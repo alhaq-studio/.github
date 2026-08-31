@@ -1,0 +1,17 @@
+# These are supported funding model platforms
+github: [Afrasyaab-GH, alhaq-initiative]
+patreon: alhaq
+buy_me_a_coffee: alhaq
+ko_fi: alhaq
+
+
+open_collective: # Replace with a single Open Collective username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+thanks_dev: # Replace with a single thanks.dev username
+
+custom: ['https://alhaq.uk', 'https://alhaq-initiative.org']
