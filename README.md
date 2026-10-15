@@ -76,7 +76,7 @@ Alhaq Studio develops and maintains open-source software, developer tools, and d
 
 Support our open-source research and software development efforts:
 
-- **GitHub Sponsors**: [Afrasyaab-GH](https://github.com/sponsors/Afrasyaab-GH)
+- **GitHub Sponsors**: [Habib Mukhlis](https://github.com/sponsors/habibmukhlis)
 - **Patreon**: [patreon.com/alhaq](https://www.patreon.com/alhaq)
 - **Buy Me a Coffee**: [buymeacoffee.com/alhaq](https://www.buymeacoffee.com/alhaq)
 - **Ko-fi**: [ko-fi.com/alhaq](https://ko-fi.com/alhaq)
@@ -88,5 +88,5 @@ Support our open-source research and software development efforts:
 ## Contact and Links
 
 - Official Website: [alhaq.uk](https://alhaq.uk/)
-- Research Portal: [alhaq-initiative.org](https://alhaq-initiative.org/)
+- Research and community Portal: [alhaq-initiative.org](https://alhaq-initiative.org/)
 - Organization GitHub: [github.com/alhaq-initiative](https://github.com/alhaq-initiative)
